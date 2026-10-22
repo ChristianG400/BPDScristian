@@ -1,4 +1,4 @@
-# 🚀 Aplicación de Tareas - Grupo CUC
+# 🚀 Aplicación de Tareas - Grupo 
 
 **Integrantes:**
 * Danilson Cassiani Camacho, Jairo Perez Tinoco, Cristian gonzales gallardo
